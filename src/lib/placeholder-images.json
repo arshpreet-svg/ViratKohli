@@ -1,0 +1,76 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "Virat Kohli celebrating a victory on the field",
+      "imageUrl": "https://pbs.twimg.com/media/F5v5TSTXsAEUsVd.jpg",
+      "imageHint": "cricket celebration"
+    },
+    {
+      "id": "timeline-1",
+      "description": "A young Virat Kohli lifting a trophy",
+      "imageUrl": "https://im.rediff.com/cricket/2019/dec/30under-kohli.jpg?w=450&h=450",
+      "imageHint": "cricket trophy"
+    },
+    {
+      "id": "timeline-2",
+      "description": "Virat Kohli celebrating the 2011 World Cup win",
+      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202304/viratkohli2011worldcup-three_four.jpg?VersionId=VcGQTGnF4aiGGbydwTGDdjwm6MRv0xHp",
+      "imageHint": "world cup celebration"
+    },
+    {
+      "id": "timeline-3",
+      "description": "Captaincy of Royal Challengers Bangalore",
+      "imageUrl": "https://pbs.twimg.com/media/FAw-cm1VkAI-LZ6.jpg",
+      "imageHint": "cricket captain"
+    },
+    {
+      "id": "timeline-4",
+      "description": "Virat Kohli takes over as full-time captain",
+      "imageUrl": "https://media.newindianexpress.com/TNIE%2Fimport%2F2022%2F1%2F17%2Foriginal%2FVirat_Kohli_AP.jpg?w=480&auto=format%2Ccompress&fit=max",
+      "imageHint": "cricket captaincy"
+    },
+    {
+      "id": "timeline-5",
+      "description": "Sir Garfield Sobers Trophy Winner",
+      "imageUrl": "https://static.india.com/wp-content/uploads/2019/01/Kohli-Virat.jpg",
+      "imageHint": "cricket award"
+    },
+    {
+      "id": "gallery-1",
+      "description": "Portrait of Virat Kohli",
+      "imageUrl": "https://i.pinimg.com/736x/1c/62/de/1c62deb76b06eb4a120322459ff5c45d.jpg",
+      "imageHint": "player portrait"
+    },
+    {
+      "id": "gallery-2",
+      "description": "Virat Kohli batting in a match",
+      "imageUrl": "https://images.news18.com/ibnlive/uploads/2023/11/virat-kohli-golden-bat-ap-image-2023-11-55dceea69468da6648b1f1413a08f8a6.jpg",
+      "imageHint": "batting action"
+    },
+    {
+      "id": "gallery-3",
+      "description": "Virat Kohli in a training session",
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_60/lsci/db/PICTURES/CMS/367800/367815.jpg",
+      "imageHint": "cricket training"
+    },
+    {
+      "id": "gallery-4",
+      "description": "Virat Kohli with his family",
+      "imageUrl": "https://static.toiimg.com/photo/121615492.cms",
+      "imageHint": "family photo"
+    },
+    {
+      "id": "gallery-5",
+      "description": "Virat Kohli receiving an award",
+      "imageUrl": "https://images.indianexpress.com/2018/09/kohli-pti.jpg",
+      "imageHint": "award ceremony"
+    },
+    {
+      "id": "gallery-6",
+      "description": "Virat Kohli fielding",
+      "imageUrl": "https://static.toiimg.com/thumb/msid-95289999,width-1280,height-720,resizemode-4/95289999.jpg",
+      "imageHint": "cricket fielding"
+    }
+  ]
+}
